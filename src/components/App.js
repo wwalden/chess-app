@@ -1,5 +1,5 @@
 import React from 'react'
-import Square from './Square'
+import Column from './Column'
 import '../styles/style.css'
 
 export const App = () => {
@@ -8,14 +8,7 @@ export const App = () => {
       <div>
         <p>Chess App</p>
       </div>
-          <Square />
-          <Square />
-          <Square />
-          <Square />
-          <Square />
-          <Square />
-          <Square />
-          <Square />
+          <Column />
     </div>
   )
 }

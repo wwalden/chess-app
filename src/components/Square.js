@@ -1,8 +1,7 @@
 import React from 'react'
-import '../styles/App.css'
+import '../styles/style.css'
 
-
-const Square: any = () => {
+const Square = () => {
   return (
     <div className="square">
 

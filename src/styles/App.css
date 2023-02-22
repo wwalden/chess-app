@@ -1,0 +1,9 @@
+.app {
+  margin: 60px;
+}
+
+.square {
+  height: 50px;
+  width: 50px;
+  border: solid 1px black;
+}

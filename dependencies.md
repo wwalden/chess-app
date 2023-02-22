@@ -1,4 +1,12 @@
-# Deps
+# Dependencies and Libraries for the project
+
+check:
+https://brainhub.eu/library/top-react-libraries
+
+https://www.syncfusion.com/blogs/post/top-10-react-component-libraries-every-developer-should-know.aspx
+
+https://technostacks.com/blog/react-component-libraries/
+
 
 ## Eslint
 
@@ -8,6 +16,7 @@ npx eslint --init
 ```
 
 https://khalilstemmler.com/blogs/typescript/eslint-for-typescript/
+
 https://blog.logrocket.com/linting-typescript-eslint-prettier/
 
 
@@ -16,14 +25,10 @@ https://blog.logrocket.com/linting-typescript-eslint-prettier/
 
 ## Bootstrap
 
-check:
-https://brainhub.eu/library/top-react-libraries
-https://www.syncfusion.com/blogs/post/top-10-react-component-libraries-every-developer-should-know.aspx
-https://technostacks.com/blog/react-component-libraries/
-
-
 https://react-bootstrap.github.io/
 
+
+## Sass
 
 
 ## Next.js
